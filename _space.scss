@@ -1,0 +1,11 @@
+.space {
+    &__container {
+        background-color: none;
+        height: 100vh;
+    }
+
+    &__two {
+        background-color: $cream;
+        height: 100vh;
+    }
+}
